@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"AlunoTests::test_calcular_media_e_aprovacao":0.005,"AlunoTests::test_exibir_dados":0.001,"ContaBancariaTests::test_operacoes_e_situacao_do_saldo":0.003,"ContaBancariaTests::test_foreach_e_match_com_lista_de_contas":0.001,"ContatoTests::test_exibir_dados_e_mensagens":0.005,"ContatoTests::test_foreach_e_match_com_lista_de_contatos":0.001}}
